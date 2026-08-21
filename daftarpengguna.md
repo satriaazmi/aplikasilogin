@@ -33,4 +33,5 @@
    TTL    : Ambon, 19 Agustus 2003  
    Alamat : Jln. Loa Bakung RT.21 No.04
 
-6. Satria Musthofa 'Azmi  
+6. Satria Musthofa 'Azmi
+7. Anton
